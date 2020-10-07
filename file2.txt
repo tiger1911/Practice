@@ -1,1 +1,15 @@
 This is my file 2
+
+1. Creating a new repository called Praactice
+2. using GitHub Desktop and add 
+	2 file : file1.txt, file2.txt
+
+3. observe the change ande commit
+
+// will learn
+4. (new) now we have a new idea we want to try out
+without really changing the main (branch) timeline
+5. create new branch in Github Desktop
+6. add some changes and commit
+7. go back to your main branch and observe it remain unchanged
+8. merge your changes you have made in different branch into main
